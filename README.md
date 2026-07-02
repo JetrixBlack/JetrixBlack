@@ -19,18 +19,12 @@ Bienvenido a mi perfil de GitHub. Soy **Ingeniero de Sistemas** apasionado por e
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
@@ -94,17 +88,14 @@ Bienvenido a mi perfil de GitHub. Soy **Ingeniero de Sistemas** apasionado por e
 
 ### 🌐 Portafolio Web
 
-Portafolio profesional diseñado para mostrar mis proyectos y habilidades. Una plataforma moderna y responsiva que destaca mi experiencia en desarrollo web frontend y animaciones interactivas.
+Portafolio profesional en desarrollo. Una plataforma moderna para mostrar mis proyectos, habilidades y experiencia como desarrollador.
 
 **Tecnologías utilizadas:** 
-- Astro, React, Tailwind CSS, JavaScript/TypeScript, Git
-- Framer Motion y GSAP para animaciones
+- HTML, CSS, JavaScript, Tailwind CSS, PHP
 
-**Destacados:** 
-- ✅ Diseño moderno
-- ✅ Optimización de rendimiento
-- ✅ SEO amigable
-- ✅ Componentes interactivos
+**Destacados (en desarrollo):** 
+- ✅ Diseño responsive
+- ✅ Próximamente en GitHub
 
 ---
 
@@ -156,8 +147,9 @@ Plataforma de gestión clínica para la administración de triaje, consultas mé
 
 ## 🌱 Actualmente Aprendiendo
 
+- **Docker** - Contenedores y entornos de desarrollo
 - **Astro** - Framework moderno para aplicaciones web rápidas y escalables
-- Automatización avanzada con IA y n8n
+- **n8n** - Automatización avanzada y flujos de trabajo
 - Mejores prácticas en arquitectura de software
 
 ---
@@ -179,11 +171,55 @@ Soy autodidacta por convicción. Creo que la mejor forma de aprender es haciendo
 
 ---
 
+## 🚀 Proyectos Actuales (no publicados aún)
+
+### 🌐 WebJetrix
+Agencia digital con panel administrativo completo, sistema de tracking, cotizaciones, planes dinámicos, modo mantenimiento, autenticación, reCAPTCHA v3, SMTP y más.
+
+**Stack:** PHP MVC, MySQL, Tailwind CSS, JavaScript, Alpine.js, Chart.js
+
+---
+
+### 📡 Monitoreo Red
+Sistema de monitoreo de red con dashboard en tiempo real, roles Admin/Operador, speedtest, alertas, históricos y configuración completa.
+
+**Stack:** PHP MVC nativo, MySQL, Tailwind CSS, Alpine.js, Chart.js
+
+---
+
+### 🏢 SAC
+Sistema de administración de condominios con roles Superadmin, Admin y Propietario.
+
+**Stack:** PHP MVC, MySQL, Tailwind CSS
+
+---
+
+### 🪪 Sistema de Carnetización
+Sistema para gestión y generación de carnets, con API, base de datos y panel administrativo.
+
+**Stack:** PHP, MySQL, JavaScript, Tailwind CSS
+
+---
+
+### 🏠 WebInmobiliaria
+Portal inmobiliario con administración de propiedades, galería de imágenes y consultas.
+
+**Stack:** PHP, MySQL, Tailwind CSS, JavaScript
+
+---
+
+### 🔗 PageLink
+Landing page tipo link-in-bio, 100% frontend, estilo premium oscuro con glassmorphism y animaciones, sin dependencias externas.
+
+**Stack:** HTML, CSS, JavaScript vanilla
+
+---
+
 ## 📫 Conectemos
 
 <div align="center">
 
-- **Email:** [Por definir - créalo cuando tengas tu portafolio]
+- **Email:** josuee13xl@gmail.com
 - **Portafolio:** [Próximamente...]
 - **GitHub:** [@JetrixBlack](https://github.com/JetrixBlack)
 
