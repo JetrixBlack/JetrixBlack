@@ -43,15 +43,6 @@ Bienvenido a mi perfil de GitHub. Soy **Ingeniero de Sistemas** apasionado por e
 **JavaScript**
 ![](https://geps.dev/progress/50?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
 
-**TypeScript**
-![](https://geps.dev/progress/20?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
-
-**React**
-![](https://geps.dev/progress/30?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
-
-**Astro**
-![](https://geps.dev/progress/50?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
-
 **Tailwind CSS**
 ![](https://geps.dev/progress/65?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
 
@@ -76,28 +67,9 @@ Bienvenido a mi perfil de GitHub. Soy **Ingeniero de Sistemas** apasionado por e
 **Git**
 ![](https://geps.dev/progress/65?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
 
-**Docker**
-![](https://geps.dev/progress/40?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
-
-**n8n**
-![](https://geps.dev/progress/55?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff)
-
 ---
 
 ## 🏆 Proyectos Destacados
-
-### 🌐 Portafolio Web
-
-Portafolio profesional en desarrollo. Una plataforma moderna para mostrar mis proyectos, habilidades y experiencia como desarrollador.
-
-**Tecnologías utilizadas:** 
-- HTML, CSS, JavaScript, Tailwind CSS, PHP
-
-**Destacados (en desarrollo):** 
-- ✅ Diseño responsive
-- ✅ Próximamente en GitHub
-
----
 
 ### 💰 Presupuesto Personal
 
