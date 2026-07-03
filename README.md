@@ -1,63 +1,79 @@
-# PageLink ⚡
+# ¡Hola! Soy Josué Torres 👋
 
-**Link-in-bio personalizable** — 100% frontend, sin dependencias, sin backend.
+<div align="center">
 
-PageLink es una página tipo Linktree que puedes personalizar editando solo un archivo JS. Ideal para creadores de contenido, emprendedores y cualquier persona que quiera tener todos sus enlaces en un solo lugar con un diseño premium oscuro.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas;Apasionado+por+Desarrollo+Web;Automatización+con+IA;Soluciones+Innovadoras)
 
-## Características
+</div>
 
-- Diseño oscuro premium con glassmorphism
-- Iconos SVG oficiales de redes sociales (Simple Icons)
-- Animaciones suaves de entrada (fadeIn + slideUp)
-- Responsive (móvil y escritorio)
-- Sin dependencias externas (solo Google Fonts)
-- Sin backend — funciona en cualquier hosting estático
-- Personalizable editando `assets/js/script.js`
+---
 
-## Personalización
+Bienvenido a mi perfil de GitHub. Soy **Ingeniero de Sistemas** apasionado por el desarrollo web, automatización con IA y creación de soluciones innovadoras.
 
-Edita el objeto `CONFIG` en `assets/js/script.js`:
+---
 
-```js
-const CONFIG = {
-  name: 'Tu Nombre',
-  bio: 'Tu descripción corta',
-  avatar: 'https://url-de-tu-foto.jpg',
-};
-```
+## 💻 Stack Tecnológico
 
-Para cambiar los enlaces, modifica el array `DEFAULT_LINKS`:
+HTML5 | CSS3 | JavaScript | Tailwind CSS | PHP | Laravel | MySQL | PostgreSQL | Git
 
-```js
-const DEFAULT_LINKS = [
-  { label: 'Instagram', subtitle: 'Sígueme', url: 'https://instagram.com/tuuser' },
-  { label: 'WhatsApp', subtitle: 'Escríbeme', url: 'https://wa.me/584141234567' },
-];
-```
+---
 
-## Estructura
+## 🚀 Proyectos
 
-```
-PageLink/
-├── index.html              # HTML principal
-├── assets/
-│   ├── css/
-│   │   └── style.css       # Estilos
-│   └── js/
-│       └── script.js       # Lógica (config + iconos + render)
-└── README.md
-```
+### 🔗 PageLink ✅ Completado
+Link-in-bio personalizable, 100% frontend sin dependencias. Diseño premium, iconos SVG oficiales, testimonios, cover con avatar superpuesto.
 
-## Iconos disponibles
+**Stack:** HTML, CSS, JavaScript vanilla
+**Repo:** [github.com/JetrixBlack/pagelink](https://github.com/JetrixBlack/pagelink)
 
-Los iconos SVG están en `ICONS` dentro de `script.js`. Actualmente incluye:
+---
 
-- Telegram, GitHub, Instagram, Facebook, Twitter/X
-- OnlyFans, TikTok, Threads, YouTube, WhatsApp
-- Link (genérico)
+### 🌐 WebJetrix
+Agencia digital con panel administrativo completo, sistema de tracking, cotizaciones, planes dinámicos, modo mantenimiento, autenticación, reCAPTCHA v3, SMTP.
 
-Para agregar un nuevo icono, solo añade una nueva entrada al objeto `ICONS` con la llave en minúsculas (ej: `tiktok: \`<svg>...\``).
+**Stack:** PHP MVC, MySQL, Tailwind CSS, JavaScript, Alpine.js, Chart.js
 
-## Licencia
+---
 
-MIT — haz lo que quieras con esto.
+### 📡 Monitoreo Red
+Sistema de monitoreo de red con dashboard en tiempo real, roles Admin/Operador, speedtest, alertas.
+
+**Stack:** PHP MVC nativo, MySQL, Tailwind CSS, Alpine.js, Chart.js
+
+---
+
+### 🏢 SAC
+Sistema de administración de condominios con roles Superadmin, Admin y Propietario.
+
+**Stack:** PHP MVC, MySQL, Tailwind CSS
+
+---
+
+### 🪪 Sistema de Carnetización
+Sistema para gestión y generación de carnets, con API y panel administrativo.
+
+**Stack:** PHP, MySQL, JavaScript, Tailwind CSS
+
+---
+
+### 🏠 WebInmobiliaria
+Portal inmobiliario con administración de propiedades, galería de imágenes y consultas.
+
+**Stack:** PHP, MySQL, Tailwind CSS, JavaScript
+
+---
+
+## 📫 Contacto
+
+- **Email:** josuee13xl@gmail.com
+- **GitHub:** [@JetrixBlack](https://github.com/JetrixBlack)
+
+---
+
+<div align="center">
+
+**⭐ Si alguno de mis proyectos te interesa, no dudes en darle una estrella o hacer un fork.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=JetrixBlack&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
